@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hoang Chuong 👋
 
-<!--
-**HoangChuongCM/HoangChuongCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+- Name: Hoang Chuong
+- Intended Major: Computer Science
 
-Here are some ideas to get you started:
+## 🚀 Projects This Semester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. Build Website
+- A restaurant website.
+- Built using React, Django.
+
+### 2. Java Programming Projects
+- A collection of Java programs developed as part of my coursework.
+- Focus on object-oriented programming and problem-solving.
