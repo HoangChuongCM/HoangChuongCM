@@ -2,6 +2,7 @@
 
 ## 👨‍🎓 About Me
 - Name: Hoang Chuong
+- Nickname: John
 - Intended Major: Computer Science
 
 ## 🚀 Projects This Semester
